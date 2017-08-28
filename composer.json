@@ -2,6 +2,7 @@
     "name": "stephanecoinon/papertrail",
     "description": "Integrate Papertrail log monitor in your PHP applications",
     "license": "MIT",
+	"version": "1.0.1",
     "authors": [
         {
             "name": "Stephane Coinon",
@@ -19,8 +20,8 @@
     },
     "require-dev": {
         "monolog/monolog": "~1.11",
-        "crysalead/kahlan": "^1.2",
+        "crysalead/kahlan": "~1.2",
         "illuminate/log": "~4.2",
-        "guzzlehttp/guzzle": "^6.1"
+        "guzzlehttp/guzzle": "~6.1"
     }
 }
